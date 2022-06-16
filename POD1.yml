@@ -1,0 +1,11 @@
+apiVersion:v1
+Kind:POD
+Sepcs:
+  Name:
+  image:
+  
+Metadata:
+  lable:
+  
+  
+ -- 1m-freelabs-847 : code
